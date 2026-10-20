@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "piccolo-orm",
+  "repo": "asyncio_tools",
+  "versions": [
+    {
+      "commit": "08948b436c2e0bd93bfb6f68100f82ae07faad8e",
+      "parsed_at": "2026-10-20T22:10:33.348097+00:00",
+      "filetree": "filetree/08948b436c2e0bd93bfb6f68100f82ae07faad8e.nq.gz",
+      "blobs": [
+        "blob/3c0a461abe1d51891f6dac615139e065ac739bb5.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/41e6263003062bd481320a5ff81596a971652e14.nq.gz",
+        "blob/e079f8a6038dd2dc8512967540f96ee0de172067.nq.gz",
+        "blob/72fd0658ad607c6f6423fc85e6fc8595d2b5b956.nq.gz",
+        "blob/2ca48513f80ffa0f806255fac9fbf8c2d109a035.nq.gz",
+        "blob/9daa9e22a501e2c5e8dfe2a0b87bc673ab648f56.nq.gz",
+        "blob/3fcf8c2e727c29df76f0b54e8dfd4dde7965ab72.nq.gz",
+        "blob/61dcbd41b3b9fe8233b28fffa4a65f9f3d7463ad.nq.gz",
+        "blob/8e47adc1927567e9e6449c744b73f7f4613b7bcb.nq.gz",
+        "blob/2de1f24445b161821c3b6c9278088b82e273b77e.nq.gz",
+        "blob/333d7850b9d8bcfa26bbcb58aa32fc0cd5696f06.nq.gz",
+        "blob/63ca51509be00ca893e4ab00de40caa028eca32e.nq.gz",
+        "blob/c2756e072d7099d1a8175749e572c4a899a7a85e.nq.gz",
+        "blob/95c5735b3d62dda5c0898557045df36ede9a5901.nq.gz",
+        "blob/97ec629cab760ceeb75da11d0934fb72f0586d14.nq.gz",
+        "blob/c43710dca67d3e99a409e5e4ea1949f8c9c0f0aa.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
